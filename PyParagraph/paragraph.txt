@@ -1,0 +1,1 @@
+{'Approximate Word Count': 285, 'Approximate Sentence Count': 12, 'Approximate Letter Count (per word)': 5.249122807017544, 'Average Sentence Length': 124.66666666666667}
